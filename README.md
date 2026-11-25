@@ -42,4 +42,4 @@ Finally, we retrieve the values from the columns we discovered:
 ---
 "Remember that SQL injection isn't just about the payload; it's about understanding how the system thinks. I hope this breakdown helps you get past any roadblocks, but don't just copy the steps—try to play with them and see what happens
                                   GOOD LUCK!
-By Maivermick.z
+                                  - By Maivermick.z
